@@ -37,6 +37,8 @@ This project analyzes regional claim data from a Swedish motor insurance portfol
 A public Tableau dashboard summarizing the key visualizations and insights is available here:
 
 [Swedish Motor Insurance – Risk Summary (Tableau Public)](https://public.tableau.com/views/SwedishMotorInsuranceRiskSummary/Dashboard)
+![insurance_dashboard](https://github.com/user-attachments/assets/3b5c271c-250d-4eae-a164-3c239351e584)
+
 
 ## Author
 Bryce Smith
