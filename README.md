@@ -23,7 +23,7 @@
 
 - `` — Cleaned dataset ready for modelling
 - `` — End‑to‑end SAS program
-- **Interactive Dashboard ↗** (Tableau Public) https://public.tableau.com/views/SwedishMotorInsurance/SwedishMotorInsuranceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Interactive Dashboard ** (Tableau Public) https://public.tableau.com/views/SwedishMotorInsurance/SwedishMotorInsuranceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - 12‑slide executive deck & 5‑page PDF report (see `/documents` & `/slides`)
 
 ## 5. Approach
