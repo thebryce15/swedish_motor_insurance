@@ -38,7 +38,7 @@ How can visual analytics improve underwriting decisions?
 
 3. Repository Layout
 
-/Motor_Insurance/
+## /Motor_Insurance/
 ├── data/
 │   ├── raw/
 │   │   └── SwedishMotorInsurance.csv          # Original source data
@@ -67,8 +67,6 @@ How can visual analytics improve underwriting decisions?
 A live synopsis of risk metrics is published on Tableau Public:
 
 Swedish Motor Insurance – Risk Dashboard [text](https://public.tableau.com/app/profile/bryce.smith4541/viz/SwedishMotorInsurance/SwedishMotorInsuranceAnalysis)
-
-(opens in a new tab)
 
 5. Methodology in Brief
 
